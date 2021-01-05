@@ -1,0 +1,5 @@
+system,column,comment,oracle,mysql
+IPS7,MER_ID,商户ID,NUMBER,INT
+IPS7,MER_CODE,商户代码,VARCHAR2(40),VARCHAR(40)
+IPS7,MER_NAME,商户名称,VARCHAR2(512),VARCHAR(512)
+IPS7,v_createtime,建立时间,sysdate,mysqldate
